@@ -262,3 +262,13 @@ header p{
     font-size:1.1rem;
     color:white;
 }
+
+.button i{
+    margin-right:8px;
+    font-size:0.95em;
+}
+.video-text{
+   
+     color:#F4C2A1;
+    font-weight:700;
+}
